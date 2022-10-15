@@ -1,0 +1,10 @@
+insert into vat (stawka_vat) values (89);
+insert into vat (stawka_vat) values (31);
+insert into vat (stawka_vat) values (85);
+insert into vat (stawka_vat) values (100);
+insert into vat (stawka_vat) values (77);
+insert into vat (stawka_vat) values (56);
+insert into vat (stawka_vat) values (9);
+insert into vat (stawka_vat) values (80);
+insert into vat (stawka_vat) values (11);
+insert into vat (stawka_vat) values (38);

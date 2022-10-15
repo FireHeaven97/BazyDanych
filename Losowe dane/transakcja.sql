@@ -1,0 +1,10 @@
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('2/20/2019', '3/4/2019', '12/26/2018', '12/12/2018');
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('12/17/2018', '1/20/2019', '10/30/2018', '10/28/2018');
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('11/2/2018', '6/9/2018', '2/10/2019', '10/10/2018');
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('3/5/2019', '7/20/2018', '5/2/2019', '5/4/2019');
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('10/5/2018', '1/13/2019', '3/28/2019', '9/22/2018');
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('9/5/2018', '4/19/2019', '8/29/2018', '8/27/2018');
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('12/6/2018', '7/4/2018', '2/11/2019', '9/20/2018');
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('7/24/2018', '10/13/2018', '2/12/2019', '4/4/2019');
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('6/29/2018', '4/20/2019', '3/17/2019', '7/11/2018');
+insert into transakcja (data_transakcji, data_przyjęcia, data_realizacji, data_wpłaty) values ('9/9/2018', '2/16/2019', '2/28/2019', '7/23/2018');

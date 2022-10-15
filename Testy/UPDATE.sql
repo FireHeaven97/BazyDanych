@@ -1,0 +1,1 @@
+UPDATE mydb.płatność SET rodzaj_płatności='e-przelew' WHERE id_rodzaj='1';

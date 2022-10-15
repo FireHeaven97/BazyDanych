@@ -1,0 +1,10 @@
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('5.83', 1994);
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('7.86', 1998);
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('5.01', 1961);
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('8.19', 2011);
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('1.62', 1999);
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('7.96', 1984);
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('6.90', 1997);
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('4.65', 2008);
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('9.59', 2009);
+insert into egzemplarze (cena_bierząca, kod_produktu) values ('6.51', 1993);
